@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<chapter xml:id="calculus" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Calculus</title>
+
+    <section xml:id="calculus-intro">
+        <title>Introduction</title>
+        <p>
+            Directly to problem solving.
+        </p>
+    </section>
+    <section xml:id="calculus-lagrange">
+        <title>Lagrange Multipliers</title>
+        <p>
+         For some reason, the method of Lagrange Multipliers shows up frequently in entrance exams to 
+         universities in Japan. This method helps with finding the maxima and minima of a function 
+         <m>f(x_0,\ldots,x_n)</m> given some constraint <m>g(x_0,\ldots,x_n)=k</m>.
+        </p>
+    </section>
+    <section xml:id="calculus-integrals">
+        <title>Integrals</title>
+        <p>
+            There's various methods of solving integrals that are tested in Japan. The main ones I can think of are 
+            using the Residue Theorem, differentiating under the integral sign, and change of variables. Change of variables will be treated 
+            elsewhere.
+        </p>
+    </section>
+
+</chapter>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<chapter xml:id="cybersecurity" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Cyber Security</title>
+
+    <section xml:id="cybersec-intro">
+        <title>Introduction</title>
+
+        <p>
+
+        </p>
+    </section>
+    <section xml:id="cybersect-defs">
+        <title>Definitions</title>
+        <p>
+            Targeted Email Attack: 
+            Targeted refers to the nature of the attack being destined for a specific organization or industry. 
+            Email refers to the medium by which the attack is done. An example of this is an email containing malware to 
+            steal the data of a certain company. A popular type of targeted email attack is called spear phishing. 
+            It involves research on the victim, and tailoring the email to them.
+        </p>
+        <p>
+            
+        </p>
+    </section>
+
+</chapter>

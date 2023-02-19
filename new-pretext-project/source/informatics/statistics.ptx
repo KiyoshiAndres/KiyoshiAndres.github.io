@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<chapter xml:id="statistics" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Statistics</title>
+
+    <section xml:id="statistics-intro">
+        <title>Introduction</title>
+        <p>
+            I find it easier to define things in the formalism of measure theory. Proofs feel more rigorous to me that way.
+        </p>
+    </section>
+    <section xml:id="statistics-def">
+        <title>Definitions</title>
+        <p>
+            A probability space is
+        </p>
+        <p>
+            The sample space
+        </p>
+        <p>
+            A random variable
+        </p>
+        <p>
+            Expectation
+        </p>
+        <p>
+            Variance
+        </p>
+        <p>
+            Covariance
+        </p>
+    </section>
+
+</chapter>
